@@ -1,7 +1,6 @@
 ---
 layout: about
-title: about
-permalink: /
+title: About
 subtitle: <p>Work Email: rui.tang[at]math.univ-toulouse.fr</p>
           <p>Personal Email:trui69954[at]gmail.com</p>
 
