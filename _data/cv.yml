@@ -2,7 +2,6 @@ cv:
   name: Rui Tang
   email: trui69954@gmail.com
   image: ""
-
   address:
     street: 118 route de Narbonne
     city: Toulouse
@@ -11,47 +10,50 @@ cv:
 
   sections:
     Education:
-      - institution:  Université de Toulouse
+      - institution: Université de Toulouse
         url: https://www.univ-tlse3.fr/
         area: Fundamental Mathematics
         studyType: PhD
-        start_date: Oct. 2024
+        start_date: "Oct. 2024"
         end_date: Present
         score: ""
-        courses: "METRIQUES DE KAHLER-EINSTEIN SUR LES VARIETES LOG CANONIQUES"
+        courses: "Métriques de Kähler--Einstein sur les variétés log canoniques"
 
       - institution: Université Paris-Saclay
         area: Fundamental Mathematics
-        studyType: Master 
-        start_date: Sep. 2023
-        end_date: Sep. 2024
-        courses: programme Jacques Hadamard (founded by FMJH)
+        studyType: Master
+        start_date: "Sep. 2023"
+        end_date: "Sep. 2024"
+        courses: Programme Jacques Hadamard, Fondation Mathématique Jacques Hadamard
 
-        - institution: Hunan University
+      - institution: Hunan University
         area: Fundamental Mathematics
         studyType: Bachelor
-        start_date: Sep. 2019
-        end_date: Sep. 2023
+        start_date: "Sep. 2019"
+        end_date: "Sep. 2023"
 
-  publications:
-    - title: '$L^\infty$-estimates of Kähler--Einstein potentials on stable varieties'
-      authors:
-        - Rui Tang
-      publisher: arXiv preprint
-      releaseDate: 2026-06-23
-      url: https://arxiv.org/abs/2606.24481
-
+    Publications:
+      - title: '$L^\infty$-estimates of Kähler--Einstein potentials on stable varieties'
+        authors:
+          - Rui Tang
+        publisher: arXiv preprint
+        releaseDate: "2026-06-23"
+        url: https://arxiv.org/abs/2606.24481
+        summary: >
+          We study the asymptotic behavior of Kähler--Einstein potentials on
+          stable varieties near the singularities. Using iterated logarithmic
+          functions associated with a defining function of the non-klt locus, we
+          obtain refined lower bounds for the Kähler--Einstein potential.
 
     Languages:
       - name: Chinese
-        summary: "Mother Tongue"
+        summary: Mother tongue
 
       - name: English
-        summary: "Fluent"
+        summary: Fluent
 
       - name: Japanese
-        summary: "Mediate"
+        summary: Intermediate
 
       - name: French
-        summary: "Beginner"
-
+        summary: Beginner
