@@ -33,13 +33,13 @@ cv:
         start_date: Sep. 2019
         end_date: Sep. 2023
 
-    Publications:
-  - title: '$L^\infty$-estimates of Kähler--Einstein potentials on stable varieties'
-    authors:
-      - Rui Tang
-    publisher: arXiv preprint
-    releaseDate: 2026-06-23
-    url: https://arxiv.org/abs/2606.24481
+  publications:
+    - title: '$L^\infty$-estimates of Kähler--Einstein potentials on stable varieties'
+      authors:
+        - Rui Tang
+      publisher: arXiv preprint
+      releaseDate: 2026-06-23
+      url: https://arxiv.org/abs/2606.24481
 
 
     Languages:
