@@ -1,7 +1,8 @@
 ---
 layout: about
 title: About
-subtitle: <p>Work Email: rui.tang[at]math.univ-toulouse.fr</p>
+subtitle:  >
+          <p>Work Email: rui.tang[at]math.univ-toulouse.fr</p>
           <p>Personal Email:trui69954[at]gmail.com</p>
 
 
@@ -11,7 +12,6 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Office: 109, 1R2</p>
-    <p>Adress:<\p>
     <p>Institut de Mathématiques de Toulouse</p>
     <p>UMR 5219, Université de Toulouse</p>
     <p>CNRS, UPS, 118 route de Narbonne, F-31062 Toulouse, France</p>
