@@ -15,7 +15,7 @@ cv:
         url: https://www.univ-tlse3.fr/
         area: Fundamental Mathematics
         studyType: PhD
-        start_date: "Oct. 2024"
+        start_date: Oct. 2024
         end_date: Present
         courses: "thèses: Métriques de Kähler--Einstein sur les variétés log canoniques"
         highlights:
@@ -25,23 +25,23 @@ cv:
         location: Paris, France
         area: Fundamental Mathematics, Programme Jacques Hadamard
         studyType: Master
-        start_date: "Sep. 2023"
-        end_date: "Sep. 2024"
-        courses: founded by [FMJH](https://fondation-hadamard.fr/en/) (Fondation Mathématique Jacques Hadamard)
+        start_date: Sep. 2023
+        end_date: Sep. 2024
+        courses: "founded by [FMJH](https://fondation-hadamard.fr/en/) (Fondation Mathématique Jacques Hadamard)"
 
       - institution: Hunan University
         location: "Changsha, Hunan<br>China"
         area: Fundamental Mathematics
         studyType: Bachelor
-        start_date: "Sep. 2019"
-        end_date: "Sep. 2023"
+        start_date: Sep. 2019
+        end_date: Sep. 2023
 
     Publications:
       - title: '<i>L</i><sup>∞</sup>-estimates of Kähler--Einstein potentials on stable varieties'
         authors:
           - Rui Tang
         publisher: arXiv preprint
-        releaseDate: "2026-06-23"
+        releaseDate: 2026-06-23
         url: https://arxiv.org/abs/2606.24481
         
 
