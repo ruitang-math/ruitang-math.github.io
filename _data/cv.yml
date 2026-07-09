@@ -16,15 +16,16 @@ cv:
         studyType: PhD
         start_date: "Oct. 2024"
         end_date: Present
-        score: ""
-        courses: "Métriques de Kähler--Einstein sur les variétés log canoniques"
+        courses: "thèses: Métriques de Kähler--Einstein sur les variétés log canoniques"
+        highlights:
+          - "Supervisors: [Henri Guenancia](https://hguenancia.perso.math.cnrs.fr/) and [Yuxin Ge](https://www.math.univ-toulouse.fr/~yge/)"
 
       - institution: Université Paris-Saclay
-        area: Fundamental Mathematics
+        area: Fundamental Mathematics, Programme Jacques Hadamard
         studyType: Master
         start_date: "Sep. 2023"
         end_date: "Sep. 2024"
-        courses: Programme Jacques Hadamard, Fondation Mathématique Jacques Hadamard
+        courses: founded by FMJH (Fondation Mathématique Jacques Hadamard)
 
       - institution: Hunan University
         area: Fundamental Mathematics
@@ -33,17 +34,13 @@ cv:
         end_date: "Sep. 2023"
 
     Publications:
-      - title: '$L^\infty$-estimates of Kähler--Einstein potentials on stable varieties'
+      - title: '<i>L</i><sup>∞</sup>-estimates of Kähler--Einstein potentials on stable varieties'
         authors:
           - Rui Tang
         publisher: arXiv preprint
         releaseDate: "2026-06-23"
         url: https://arxiv.org/abs/2606.24481
-        summary: >
-          We study the asymptotic behavior of Kähler--Einstein potentials on
-          stable varieties near the singularities. Using iterated logarithmic
-          functions associated with a defining function of the non-klt locus, we
-          obtain refined lower bounds for the Kähler--Einstein potential.
+        
 
     Languages:
       - name: Chinese
