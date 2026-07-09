@@ -28,6 +28,8 @@ on:
       - "!docs/FAQ.md"
       - "!docs/INSTALL.md"
       - "!README.md"
+      - "_sass/**"
+      - "**/*.scss"
   pull_request:
     branches:
       - master
