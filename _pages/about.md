@@ -16,7 +16,7 @@ profile:
     <p>Institut de Mathématiques de Toulouse</p>
     <p>UMR 5219, Université de Toulouse</p>
     <p>118 route de Narbonne</p>
-    <p>F-31062 Toulouse Cedex 9<\p>
+    <p>F-31062 Toulouse Cedex 9</p>
 
 selected_papers: false
 social: false
