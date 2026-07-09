@@ -4,8 +4,8 @@ title: About
 permalink: /
 
 subtitle: >
-  <p>**Current work email**: rui.tang[at]math.univ-toulouse.fr</p>
-  <p>**Personal work email**: trui69954[at]gmail.com</p>
+  <p><strong>Current work email</strong>: rui.tang[at]math.univ-toulouse.fr</p>
+  <p><strong>Personal work email</strong>: trui69954[at]gmail.com</p>
 
 profile:
   align: right
