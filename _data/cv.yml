@@ -11,6 +11,7 @@ cv:
   sections:
     Education:
       - institution: Université de Toulouse
+        location: Toulouse, France
         url: https://www.univ-tlse3.fr/
         area: Fundamental Mathematics
         studyType: PhD
@@ -21,6 +22,7 @@ cv:
           - "Supervisors: [Henri Guenancia](https://hguenancia.perso.math.cnrs.fr/) and [Yuxin Ge](https://www.math.univ-toulouse.fr/~yge/)"
 
       - institution: Université Paris-Saclay
+        location: Paris, France
         area: Fundamental Mathematics, Programme Jacques Hadamard
         studyType: Master
         start_date: "Sep. 2023"
@@ -28,6 +30,7 @@ cv:
         courses: founded by FMJH (Fondation Mathématique Jacques Hadamard)
 
       - institution: Hunan University
+        location: Changsha, Hunan, China
         area: Fundamental Mathematics
         studyType: Bachelor
         start_date: "Sep. 2019"
