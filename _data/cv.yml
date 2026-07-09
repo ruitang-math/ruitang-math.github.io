@@ -3,7 +3,7 @@ cv:
   email: trui69954@gmail.com
   image: ""
   address:
-    street: 118 route de Narbonne
+    street: Institut de Mathématiques de Toulouse, 118, route de Narbonne
     city: Toulouse
     postalCode: F-31062
     countryCode: France
@@ -30,7 +30,7 @@ cv:
         courses: founded by FMJH (Fondation Mathématique Jacques Hadamard)
 
       - institution: Hunan University
-        location: Changsha, Hunan, China
+        location: "Changsha, Hunan<br>China"
         area: Fundamental Mathematics
         studyType: Bachelor
         start_date: "Sep. 2019"
