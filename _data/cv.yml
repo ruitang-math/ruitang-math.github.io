@@ -51,3 +51,9 @@ cv:
 
       - name: French
         summary: Beginner
+design:
+  theme: moderncv
+  page:
+    size: a4
+    show_footer: false
+    show_top_note: false
