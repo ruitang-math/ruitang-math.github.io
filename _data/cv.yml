@@ -18,12 +18,12 @@ cv:
 
       - institution: Université Paris-Saclay
         location: Paris, France
-        area: Fundamental Mathematics, Programme Jacques Hadamard
+        area: Fundamental Mathematics
         studyType: Master
         start_date: 2023-09
         end_date: 2024-09
         highlights:
-          - "Supervisors: funded by [FMJH](https://fondation-hadamard.fr/en/) (Fondation Mathématique Jacques Hadamard)"
+          - "Programme Jacques Hadamard, funded by [FMJH](https://fondation-hadamard.fr/en/) (Fondation Mathématique Jacques Hadamard)"
 
       - institution: Hunan University
         location: "Changsha, Hunan<br>China"
