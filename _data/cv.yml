@@ -1,7 +1,7 @@
 cv:
   name: Rui Tang
   email: trui69954@gmail.com
-  location: Toulouse, FR
+  location: Toulouse, France
   website: https://ruitang-math.github.io/
 
   sections:
@@ -9,43 +9,39 @@ cv:
       - institution: Université de Toulouse
         location: Toulouse, France
         area: Fundamental Mathematics
-        degree: Ph.D.
+        degree: PhD
         start_date: 2024-10
         end_date: present
         highlights:
-          - "Thèses: Métriques de Kähler--Einstein sur les variétés log canoniques"
+          - "Thesis: Métriques de Kähler--Einstein sur les variétés log canoniques"
           - "Supervisors: [Henri Guenancia](https://hguenancia.perso.math.cnrs.fr/) and [Yuxin Ge](https://www.math.univ-toulouse.fr/~yge/)"
 
       - institution: Université Paris-Saclay
         location: Paris, France
         area: Fundamental Mathematics
-        degree: M2
+        degree: Master
         start_date: 2023-09
         end_date: 2024-09
         highlights:
           - "Programme Jacques Hadamard, funded by [FMJH](https://fondation-hadamard.fr/en/) (Fondation Mathématique Jacques Hadamard)"
 
       - institution: Hunan University
-        location: "Changsha, Hunan<br>China"
+        location: Changsha, Hunan, China
         area: Fundamental Mathematics
         degree: Bachelor
         start_date: 2019-09
         end_date: 2023-09
 
     Pre-prints:
-      - name: "𝐿∞-estimates of Kähler–Einstein potentials on stable varieties"
-        summary: "[arXiv preprint](https://arxiv.org/abs/2606.24481)"
+      - title: "L∞-estimates of Kähler–Einstein potentials on stable varieties"
+        authors:
+          - Rui Tang
         date: 2026-06-23
+        url: https://arxiv.org/abs/2606.24481
+        summary: "Submitted."
 
     Languages:
-      - name: Chinese
-        summary: Mother tongue
-
-      - name: English
-        summary: Fluent
-
-      - name: Japanese
-        summary: Intermediate
-
-      - name: French
-        summary: Beginner
+      - bullet: "Chinese: Mother tongue"
+      - bullet: "English: Fluent"
+      - bullet: "Japanese: Intermediate"
+      - bullet: "French: Beginner"
