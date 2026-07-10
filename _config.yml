@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: "Rui Tang's homepage"  # the website title (if blank, full name will be used instead)
+title: blank  # the website title (if blank, full name will be used instead)
 first_name: TANG Rui
 middle_name:
 last_name: 唐睿
