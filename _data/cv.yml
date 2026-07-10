@@ -10,9 +10,8 @@ cv:
 
   sections:
     Education:
-      - institution: '[Université de Toulouse](https://www.univ-tlse3.fr/)'
+      - institution: Université de Toulouse
         location: Toulouse, France
-        
         area: Fundamental Mathematics
         studyType: PhD
         start_date: Oct. 2024
@@ -27,7 +26,8 @@ cv:
         studyType: Master
         start_date: Sep. 2023
         end_date: Sep. 2024
-        courses: 'funded by [FMJH](https://fondation-hadamard.fr/en/) (Fondation Mathématique Jacques Hadamard)'
+        highlights:
+          - "Supervisors: funded by [FMJH](https://fondation-hadamard.fr/en/) (Fondation Mathématique Jacques Hadamard)"
 
       - institution: Hunan University
         location: "Changsha, Hunan<br>China"
