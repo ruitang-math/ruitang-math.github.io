@@ -9,7 +9,7 @@ cv:
       - institution: Université de Toulouse
         location: Toulouse, France
         area: Fundamental Mathematics
-        degree: PhD
+        degree: Ph.D.
         start_date: 2024-10
         end_date: present
         highlights:
@@ -19,7 +19,7 @@ cv:
       - institution: Université Paris-Saclay
         location: Paris, France
         area: Fundamental Mathematics
-        degree: Master
+        degree: M2
         start_date: 2023-09
         end_date: 2024-09
         highlights:
