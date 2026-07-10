@@ -39,18 +39,18 @@ cv:
         date: 2026-06-23
         url: https://arxiv.org/abs/2606.24481
 
-     Languages:
-      - label: Chinese
-        details: Mother tongue
+    Languages:
+    - label: Chinese
+      details: Mother tongue
 
-      - label: English
-        details: Fluent
+     - label: English
+       details: Fluent
 
-      - label: Japanese
-        details: Intermediate
+     - label: Japanese
+       details: Intermediate
 
-      - label: French
-        details: Beginner
+     - label: French
+       details: Beginner
 design:
   theme: moderncv
   page:
