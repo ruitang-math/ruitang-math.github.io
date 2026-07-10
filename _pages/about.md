@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-browser_title: Home | Rui Tang's homepage
+browser_title: Home_Rui Tang
 subtitle: >
   <p><span style="font-weight: 700;">Current Work Email</span>: rui.tang[at]math.univ-toulouse.fr</p>
   <p><span style="font-weight: 700;">Personal Email</span>: trui69954[at]gmail.com</p>
