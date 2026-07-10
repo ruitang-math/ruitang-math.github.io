@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Research
-browser_title: Research | Rui Tang's homepage
+browser_title: Research_Rui Tang
 nav: true
 nav_order: 2
 ---
