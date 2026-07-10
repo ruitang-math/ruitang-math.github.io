@@ -32,12 +32,10 @@ cv:
         start_date: 2019-09
         end_date: 2023-09
 
-    Pre-prints:
-      - title: "[1] 𝐿∞-estimates of Kähler–Einstein potentials on stable varieties"
-        publisher: arXiv preprint
-        releaseDate: 2026-06-23
-        url: https://arxiv.org/abs/2606.24481
-        
+    Publication:
+      - name: "𝐿∞-estimates of Kähler–Einstein potentials on stable varieties"
+        summary: "[arXiv preprint](https://arxiv.org/abs/2606.24481)"
+        date: 2026-06-23
 
     Languages:
       - name: Chinese
