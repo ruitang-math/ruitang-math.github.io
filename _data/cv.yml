@@ -32,23 +32,22 @@ cv:
         start_date: 2019-09
         end_date: 2023-09
 
-    Pre-prints:
+    Publications:
       - title: "L∞-estimates of Kähler–Einstein potentials on stable varieties"
         authors:
           - Rui Tang
         date: 2026-06-23
         url: https://arxiv.org/abs/2606.24481
-        summary: "Submitted."
 
     Languages:
-      - label: Chinese
-        details: Mother tongue
+      - name: Chinese
+        summary: Mother tongue
 
-      - label: English
-        details: Fluent
+      - name: English
+        summary: Fluent
 
-      - label: Japanese
-        details: Intermediate
+      - name: Japanese
+        summary: Intermediate
 
-      - label: French
-        details: Beginner
+      - name: French
+        summary: Beginner
