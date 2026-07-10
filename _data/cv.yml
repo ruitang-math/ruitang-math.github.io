@@ -9,17 +9,17 @@ cv:
       - institution: Université de Toulouse
         location: Toulouse, France
         area: Fundamental Mathematics
-        studyType: PhD
+        degree: PhD
         start_date: 2024-10
         end_date: present
-        courses: 'Thèses: Métriques de Kähler--Einstein sur les variétés log canoniques'
         highlights:
+          - "Thèses: Métriques de Kähler--Einstein sur les variétés log canoniques"
           - "Supervisors: [Henri Guenancia](https://hguenancia.perso.math.cnrs.fr/) and [Yuxin Ge](https://www.math.univ-toulouse.fr/~yge/)"
 
       - institution: Université Paris-Saclay
         location: Paris, France
         area: Fundamental Mathematics
-        studyType: Master
+        degree: Master
         start_date: 2023-09
         end_date: 2024-09
         highlights:
@@ -28,7 +28,7 @@ cv:
       - institution: Hunan University
         location: "Changsha, Hunan<br>China"
         area: Fundamental Mathematics
-        studyType: Bachelor
+        degree: Bachelor
         start_date: 2019-09
         end_date: 2023-09
 
