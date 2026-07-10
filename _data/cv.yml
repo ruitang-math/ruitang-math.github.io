@@ -1,12 +1,7 @@
 cv:
   name: Rui Tang
   email: trui69954@gmail.com
-  image: ""
-  address:
-    street: Institut de Mathématiques de Toulouse, 118, route de Narbonne
-    city: Toulouse
-    postalCode: F-31062
-    countryCode: France
+  address: Institut de Mathématiques de Toulouse, 118 route de Narbonne, F-31062 Toulouse Cedex 9
 
   sections:
     Education:
@@ -14,8 +9,8 @@ cv:
         location: Toulouse, France
         area: Fundamental Mathematics
         studyType: PhD
-        start_date: Oct. 2024
-        end_date: Present
+        start_date: 2024-10
+        end_date: present
         courses: 'Thèses: Métriques de Kähler--Einstein sur les variétés log canoniques'
         highlights:
           - "Supervisors: [Henri Guenancia](https://hguenancia.perso.math.cnrs.fr/) and [Yuxin Ge](https://www.math.univ-toulouse.fr/~yge/)"
@@ -24,8 +19,8 @@ cv:
         location: Paris, France
         area: Fundamental Mathematics, Programme Jacques Hadamard
         studyType: Master
-        start_date: Sep. 2023
-        end_date: Sep. 2024
+        start_date: 2023-09
+        end_date: 2024-09
         highlights:
           - "Supervisors: funded by [FMJH](https://fondation-hadamard.fr/en/) (Fondation Mathématique Jacques Hadamard)"
 
@@ -33,8 +28,8 @@ cv:
         location: "Changsha, Hunan<br>China"
         area: Fundamental Mathematics
         studyType: Bachelor
-        start_date: Sep. 2019
-        end_date: Sep. 2023
+        start_date: 2019-09
+        end_date: 2023-09
 
     Publications:
       - title: '<i>L</i><sup>∞</sup>-estimates of Kähler--Einstein potentials on stable varieties'
